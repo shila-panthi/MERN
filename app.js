@@ -15,6 +15,7 @@ console.log(numbers[1])
 
 var b=20;
 let o=20;
+const m="hello "
 
 //object
 const person ={
